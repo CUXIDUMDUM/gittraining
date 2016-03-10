@@ -1,3 +1,3 @@
 # gittraining
 
-[Read more words!](../omnibus-awesome/README.md)
+[Read more words!](https://github.com/CUXIDUMDUM/omnibus-awesome/blob/master/README.md)
